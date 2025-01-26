@@ -1,7 +1,7 @@
 # Curiosity Studio
 
-
 _Hi this repository has the code for a sleek and user-friendly homepage built with HTML, CSS, and JavaScript. It’s fully responsive and uses modern web design practices_
+
 
 ## Features 
 
@@ -19,7 +19,7 @@ Curiosity Studio is a frontend-based website developed using:
 
 ## Website 
 
-You can access the website [Curiosity - Studio ](https://curiositystudio.netlify.app/) from here 
+You can access the website [Curiosity - Studio ](https://mycuriosity.netlify.app/webpages/curiositystudio/) from here 
   \
   \
 _Feel free to explore and contribute. Have a great day :)_
